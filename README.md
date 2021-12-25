@@ -73,6 +73,7 @@ has been found.
 rounds are greater than 10).
 
 Codemaker
+
 A. Score calculation - CalculateScore(guess, answer)
 - For each character in the guess string check if it is at the same position in the
 answer string. If it is then append a “B” to the score. Otherwise store the guess
