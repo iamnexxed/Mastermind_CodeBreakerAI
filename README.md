@@ -109,6 +109,11 @@ Therefore, each thread can be given (total guesses) divided by (thread count)
 number of guesses to work on.
 - Thus minimizing the time required to calculate a guess.
 
+![Image1](https://github.com/iamnexxed/Mastermind_CodeBreakerAI/blob/main/Assets/Sprites/SS1.png)
+
+![Image2](https://github.com/iamnexxed/Mastermind_CodeBreakerAI/blob/main/Assets/Sprites/SS2.png)
+
+
 References
 
 - A talk on Beating Mastermind by Adam Forsyth:
